@@ -1,2 +1,7 @@
 # node-project
-Esilv node development project, team member:wenbo.sui/limin.tian
+# E-Learning Application
+Esilv node development project, final link of our project:
+##### Team member: Wenbo SUI, Meriem BOUSSADIA, Limin TIAN
+##### Limin TIAN: Responsible for the development of the home component, as well as the header and footer components for the initial home page of the application.
+
+
