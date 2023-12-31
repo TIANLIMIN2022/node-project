@@ -10,6 +10,15 @@ Our final link of our project: https://github.com/Mia16041999/Node-Angular-Proje
 1. using 'npm install' to install package;
 2. using 'npx tsc' to compile the typescript document;
 3. using 'node dist/serve.js' to run this project.
+# Screenshots
+#### Homepage
+![image](https://github.com/TIANLIMIN2022/node-project/assets/140572548/96952b9b-7f58-4270-a451-79e068447df8)
+#### Intruduction of webapp 
+![image](https://github.com/TIANLIMIN2022/node-project/assets/140572548/4067a533-4ad0-4f37-9e07-fe9b47b318cf)
+#### Team 
+![Uploading image.png…]()
+![Uploading image.png…]()
+
    
 
 
