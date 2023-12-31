@@ -16,8 +16,10 @@ Our final link of our project: https://github.com/Mia16041999/Node-Angular-Proje
 #### Intruduction of webapp 
 ![image](https://github.com/TIANLIMIN2022/node-project/assets/140572548/4067a533-4ad0-4f37-9e07-fe9b47b318cf)
 #### Team 
-![Uploading image.png…]()
-![Uploading image.png…]()
+![image](https://github.com/TIANLIMIN2022/node-project/assets/140572548/dffbf89e-85e5-44ac-bb32-c76357e9efc8)
+
+![image](https://github.com/TIANLIMIN2022/node-project/assets/140572548/f05a6025-6de2-4381-be43-b87d1d71f58e)
+
 
    
 
